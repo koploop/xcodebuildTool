@@ -1,4 +1,4 @@
-## A Python package tool for build your project or workspace
+## A Python package tool to build your project or workspace
 
 
 
