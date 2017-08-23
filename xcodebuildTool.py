@@ -48,8 +48,8 @@ APPLEPWD = 'APPLEPWD'
 # ============== 上传至蒲公英选项 ==============
 PGYER_UPLOAD_URL = "http://www.pgyer.com/apiv1/app/upload"
 DOWNLOAD_BASE_URL = "http://www.pgyer.com"
-USER_KEY = "d9f8ff6ca7630e22d15eb55c6cfd22d9"
-API_KEY = "ddb5011563b5b3becc556407d48c7c7f"
+USER_KEY = "d9f8ff6ca7630e22d15eb55c6cfd2"
+API_KEY = "ddb5011563b5b3becc556407d48c7"
 # 设置从蒲公英下载应用时的密码(默认无)
 PYGER_PASSWORD = ""
 

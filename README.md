@@ -1,7 +1,5 @@
 ## A Python package tool to build your project or workspace
 
-
-
 #### Configuration
 
 - open `xcodebuildTool.py`,change the options. like `TARGET/VERSION`  more...
